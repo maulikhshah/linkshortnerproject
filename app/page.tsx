@@ -37,9 +37,6 @@ export default async function Home() {
             <Button asChild size="lg" className="text-base">
               <Link href="/dashboard">Get Started Free</Link>
             </Button>
-            <Button asChild variant="outline" size="lg" className="text-base">
-              <a href="#features">Learn More</a>
-            </Button>
           </div>
         </div>
       </section>
